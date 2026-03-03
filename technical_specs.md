@@ -111,3 +111,46 @@
 - Health-Fi: Step/fitness data increasingly linked to insurance rewards
 - Recovery tech (compression boots) as premium wellness gadgets
 - Prediction markets emerging as legitimate data sources
+
+---
+
+## 8. New Findings (9:40 AM Update)
+
+### Clear Drop Soft Plastic Compactor
+- **Type:** Recycling IoT device
+- **Function:** Compacts soft plastics into bricks
+- **Daily Use:** Home recycling solution for non-recyclable plastics
+- **IoT Angle:** Tracks compression metrics, waste weight
+
+### GrapheneOS + Motorola Partnership
+- **Announced:** MWC 2026
+- **Focus:** Security-focused Android smartphones
+- **Significance:** Privacy-first hardware collaboration
+- **IoT Impact:** Secure IoT device management
+
+### PetPhone (GlocalMe)
+- **Type:** Pet connectivity wearable
+- **Features:** Collar-mounted, two-way audio, "call" by jumping
+- **Activation:** Jump 3x in 6 seconds to call owner
+- **Daily Use:** Pet monitoring, separation anxiety solution
+
+### Lenovo Yoga Book Pro 3D (Concept)
+- **Type:** Dual-screen laptop with glasses-free 3D
+- **Tech:** Hand tracking, dual displays, specialized cutouts
+- **Target:** 3D artists, designers
+- **IoT:** Hand tracking sensors
+
+### Lenovo Legion 7A
+- **Type:** Gaming laptop
+- **Chip:** AMD Strix Halo APU (Ryzen AI Max Plus 392)
+- **Display:** 15.3" OLED, 165Hz VRR, 500 nits
+- **Charging:** 180W USB-C
+
+---
+
+## 9. Emerging Trends
+
+- Pet tech as new IoT category (connected pet devices)
+- Security-focused Android gaining hardware partnerships
+- Home recycling IoT (waste management)
+- Glasses-free 3D display tech for creators
