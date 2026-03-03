@@ -71,3 +71,43 @@
 - No major new breakthroughs in Q1 2026
 
 **Next:** Explore AI-powered personal finance assistants integrated with smart devices.
+
+---
+
+## 6. March 2026 Updates
+
+### Nothing Phone 4A (IoT + Daily Use)
+- **Release:** March 2026
+- **Features:** Glyph Bar lighting (LED notifications), transparent back
+- **IoT Angle:** Smart notifications, device ecosystem integration
+- **Daily Use:** Mid-range smartphone with unique visual feedback
+
+### Walking Pads (Health + IoT)
+- **Trend:** Growing in India for home fitness
+- **Tech:** BLE connectivity, app tracking, step goals
+- **FinTech:** Health insurance wellness rewards linked to step data
+- **Price:** ₹8,000-25,000 range
+
+### Kindle Paperwhite Kids
+- **Price:** $149.99 (₹12,500)
+- **Features:** 6" display, 2-year warranty, 6 months Kids Plus
+- **Daily Use:** Children's e-reader with parental controls
+
+### Therabody JetBoots Pro Plus
+- **Category:** Recovery tech / wearables
+- **Tech:** Compression therapy with smart controls
+- **FinTech:** Premium pricing ($1,499), wellness investment
+
+### AP + Kalshi Partnership (FinTech Data)
+- **Type:** Election data licensing for predictions market
+- **Significance:** Traditional journalism ↔ FinTech integration
+- **Trend:** Prediction markets becoming news sources
+
+---
+
+## 7. Key Takeaways (March 2026)
+
+- Wearables continue evolving with notification-centric displays (Nothing Glyph)
+- Health-Fi: Step/fitness data increasingly linked to insurance rewards
+- Recovery tech (compression boots) as premium wellness gadgets
+- Prediction markets emerging as legitimate data sources
