@@ -1582,3 +1582,1054 @@
 | **Total** | **215+** |
 
 **Generation Complete:** 2026-03-11 09:00 AM IST
+
+---
+
+## 27. Gaming & Entertainment Tech
+
+### VRChair: Immersive Gaming Chair
+- **Type:** Gaming
+- **Tech:** Haptic feedback, speakers
+- **Features:**
+  - Rumble feedback
+  - Built-in audio
+  - VR compatible
+  - Adjustable
+- **Daily Use:** Gamers
+- **Price:** $399 (₹33,200)
+
+### GameBoard: Smart Board Game
+- **Type:** Entertainment
+- **Tech:** LEDs, app, sensors
+- **Features:**
+  - Digital game pieces
+  - Rule enforcement
+  - Score tracking
+  - Multi-game support
+- **Daily Use:** Family game night
+- **Price:** $149 (₹12,400)
+
+### SingStar: Smart Karaoke Mic
+- **Type:** Entertainment
+- **Tech:** Bluetooth, speaker
+- **Features:**
+  - Wireless mic
+  - Echo effect
+  - Song library
+  - Recording
+- **Daily Use:** Party
+- **Price:** $79 (₹6,500)
+
+### StreamDeck: Streaming Control Surface
+- **Type:** Content creation
+- **Tech:** Buttons, display
+- **Features:**
+  - Custom hotkeys
+  - Stream control
+  - App integration
+  - OLED display
+- **Daily Use:** Streamers
+- **Price:** $149 (₹12,400)
+
+### LightBoard: RGB Keyboard Mat
+- **Type:** Gaming
+- **Tech:** RGB LEDs, USB
+- **Features:**
+  - Customizable lights
+  - Media controls
+  - USB pass-through
+  - Mouse bungee
+- **Daily Use:** Gamers
+- **Price:** $59 (₹4,900)
+
+### AimTrainer: Smart Target Practice
+- **Type:** Gaming
+- **Tech:** Laser, sensors
+- **Features:**
+  - Reaction training
+  - Score tracking
+  - Multiple modes
+  - Apps integration
+- **Daily Use:** FPS gamers
+- **Price:** $49 (₹4,100)
+
+### CardShuffler: Smart Card Shuffler
+- **Type:** Card games
+- **Tech:** Motors, sensors
+- **Features:**
+  - Perfect shuffle
+  - Card counting
+  - Battery powered
+  - Works with any deck
+- **Daily Use:** Card players
+- **Price:** $39 (₹3,200)
+
+### DiceRoller: Electronic Dice
+- **Type:** Board games
+- **Tech:** Accelerometer, LEDs
+- **Features:**
+  - Fair random rolls
+  - Sound effects
+  - Custom dice
+  - Rechargeable
+- **Daily Use:** D&D, board games
+- **Price:** $29 (₹2,400)
+
+### ChessCoach: Smart Chess Board
+- **Type:** Chess
+- **Tech:** Sensors, AI, app
+- **Features:**
+  - Move detection
+  - AI opponent
+  - Lesson mode
+  - Analysis
+- **Daily Use:** Chess players
+- **Price:** $199 (₹16,500)
+
+### MahjongTable: Electronic Mahjong Table
+- **Type:** Traditional game
+- **Tech:** Tiles, display
+- **Features:**
+  - Auto-shuffle
+  - Score tracking
+  - AI players
+  - Tutorial mode
+- **Daily Use:** Mahjong fans
+- **Price:** $299 (₹24,900)
+
+---
+
+## 28. Travel Tech
+
+### PackLight: Smart Luggage Scale
+- **Type:** Travel
+- **Tech:** Scale sensor, app
+- **Features:**
+  - Weigh bags
+  - History tracking
+  - Airline limits
+  - Compact
+- **Daily Use:** Travelers
+- **Price:** $19 (₹1,600)
+
+### TravelAdapter: Universal Smart Adapter
+- **Type:** Travel
+- **Tech:** Multi-plug, USB, app
+- **Features:**
+  - All country plugs
+  - USB-C PD
+  - Surge protection
+  - Timer
+- **Daily Use:** International
+- **Price:** $39 (₹3,200)
+
+### NeckPillow: Inflatable Memory Pillow
+- **Type:** Travel
+- **Tech:** Memory foam, inflator
+- **Features:**
+  - One-click inflate
+  - Memory foam
+  - Eye mask included
+  - Carrying pouch
+- **Daily Use:** Flights
+- **Price:** $29 (₹2,400)
+
+### EyeMaskPro: Premium Sleep Mask
+- **Type:** Travel
+- **Tech:** Memory foam, cooling
+- **Features:**
+  - 100% blackout
+  - Cooling gel
+  - Earplugs included
+  - Washable
+- **Daily Use:** Travelers
+- **Price:** $19 (₹1,600)
+
+### LuggageTag: Smart Luggage Tag
+- **Type:** Travel
+- **Tech:** E-ink, BLE
+- **Features:**
+  - Reusable
+  - Digital info
+  - Lost luggage finder
+  - Battery 2 years
+- **Daily Use:** Travelers
+- **Price:** $29 (₹2,400)
+
+### PackingCube: Smart Packing Cubes
+- **Type:** Travel
+- **Tech:** Weight sensors
+- **Features:**
+  - Weigh contents
+  - Organization
+  - Compression
+  - App tracking
+- **Daily Use:** Pack organizers
+- **Price:** $49 (₹4,100)
+
+### TravelWallet: All-in-One Travel Organizer
+- **Type:** Travel
+- **Tech:** Multiple compartments
+- **Features:**
+  - Passport holder
+  - Card organizer
+  - Pen included
+  - RFID blocking
+- **Daily Use:** Travelers
+- **Price:** $39 (₹3,200)
+
+### ToiletryBag: Hanging Toiletry Bag
+- **Type:** Travel
+- **Tech:** Hook, waterproof
+- **Features:**
+  - Hanging design
+  - Multiple pockets
+  - Waterproof
+  -TSA compliant
+- **Daily Use:** Travelers
+- **Price:** $24 (₹2,000)
+
+### PassportCover: Smart Passport Cover
+- **Type:** Travel
+- **Tech:** RFID, BLE
+- **Features:**
+  - RFID protection
+  - Location tracking
+  - Hidden pocket
+  - Premium leather
+- **Daily Use:** Travelers
+- **Price:** $34 (₹2,800)
+
+### TravelBlanket: Packable Blanket
+- **Type:** Travel
+- **Tech:** Microfiber, packable
+- **Features:**
+  - Folds to pocket
+  - Soft fleece
+  - Machine washable
+  - Multi-use
+- **Daily Use:** Flights/camping
+- **Price:** $19 (₹1,600)
+
+---
+
+## 29. Pet Tech
+
+### FeatherTeaser: Interactive Cat Toy
+- **Type:** Pet
+- **Tech:** Motors, remote
+- **Features:**
+  - Auto-wand
+  - Random patterns
+  - Timer
+  - Rechargeable
+- **Daily Use:** Cat owners
+- **Price:** $29 (₹2,400)
+
+### FoodTower: Slow Feeder Cat Bowl
+- **Type:** Pet
+- **Tech:** Puzzle design
+- **Features:**
+  - Slow eating
+  - Mental stimulation
+  - Dishwasher safe
+  - Non-slip
+- **Daily Use:** Cats
+- **Price:** $19 (₹1,600)
+
+### DogCatcher: Automatic Fetch Machine
+- **Type:** Pet
+- **Tech:** Launcher, sensors
+- **Features:**
+  - Launches balls
+  - Adjustable distance
+  - Safety sensors
+  - Battery powered
+- **Daily Use:** Dogs
+- **Price:** $149 (₹12,400)
+
+### WaterFountain: Pet Water Filter
+- **Type:** Pet
+- **Tech:** Filter, pump
+- **Features:**
+  - Continuous flow
+  - Filter indicator
+  - Quiet pump
+  - Large capacity
+- **Daily Use:** Pets
+- **Price:** $39 (₹3,200)
+
+### PetDoor: Microchip Pet Door
+- **Type:** Pet
+- **Tech:** RFID reader
+- **Features:**
+  - Reads microchip
+  - Timed locking
+  - Draft excluder
+  - Easy install
+- **Daily Use:** Pet owners
+- **Price:** $129 (₹10,700)
+
+### GPSCollar: Pet GPS Tracker
+- **Type:** Pet
+- **Tech:** GPS, cellular
+- **Features:**
+  - Real-time tracking
+  - Geofencing
+  - Activity monitoring
+  - Waterproof
+- **Daily Use:** Pets
+- **Price:** $79 (₹6,500)
+
+### TreatCam: Pet Treat Camera
+- **Type:** Pet
+- **Tech:** Camera, dispenser
+- **Features:**
+  - See pet anytime
+  - Toss treats
+  - Two-way audio
+  - Mobile app
+- **Daily Use:** Pet owners
+- **Price:** $99 (₹8,200)
+
+### GroomingVac: Pet Grooming Vacuum
+- **Type:** Pet
+- **Tech:** Vacuum, brushes
+- **Features:**
+  - Low-noise
+  - Multiple heads
+  - Easy cleanup
+  - Pet happy
+- **Daily Use:** Pet grooming
+- **Price:** $79 (₹6,500)
+
+### LitterRobot: Self-Cleaning Litter Box
+- **Type:** Pet
+- **Tech:** Automatic, WiFi
+- **Features:**
+  - Self-cleaning
+  - Odor control
+  - App monitoring
+  - Low tracking
+- **Daily Use:** Cat owners
+- **Price:** $399 (₹33,200)
+
+### AquariumPro: Smart Fish Tank
+- **Type:** Pet
+- **Tech:** Auto-feeder, filter, light
+- **Features:**
+  - Auto-feed
+  - LED lighting
+  - Filter indicator
+  - Temperature control
+- **Daily Use:** Fish owners
+- **Price:** $149 (₹12,400)
+
+---
+
+## 30. Automotive Tech
+
+### DashCharge: Car Wireless Charger
+- **Type:** Car
+- **Tech:** Wireless, fast charge
+- **Features:**
+  - 15W fast charge
+  - One-hand mount
+  - Cooling fan
+  - LED accent
+- **Daily Use:** Drivers
+- **Price:** $39 (₹3,200)
+
+### JumpStart: Portable Jump Starter
+- **Type:** Car
+- **Tech:** Battery, clamps
+- **Features:**
+  - Jump start car
+  - Power bank
+  - LED light
+  - USB ports
+- **Daily Use:** Emergency
+- **Price:** $59 (₹4,900)
+
+### TireGauge: Digital Tire Pressure
+- **Type:** Car
+- **Tech:** Pressure sensor
+- **Features:**
+  - Digital readout
+  - Preset levels
+  - Backlight
+  - Carry case
+- **Daily Use:** Drivers
+- **Price:** $19 (₹1,600)
+
+### CarVac: Compact Car Vacuum
+- **Type:** Car
+- **Tech:** Cordless, HEPA
+- **Features:**
+  - Powerful suction
+  - HEPA filter
+  - Attachments
+  - USB charging
+- **Daily Use:** Car cleaning
+- **Price:** $49 (₹4,100)
+
+### SeatMassager: Car Seat Massage
+- **Type:** Car
+- **Tech:** Motors, heat
+- **Features:**
+  - Lumbar massage
+  - Heat function
+  - Easy install
+  - Remote control
+- **Daily Use:** Commuters
+- **Price:** $79 (₹6,500)
+
+### AirCompressor: Portable Air Compressor
+- **Type:** Car
+- **Tech:** Motor, gauge
+- **Features:**
+  - Inflate tires
+  - Digital gauge
+  - Auto shut-off
+  - LED light
+- **Daily Use:** Drivers
+- **Price:** $39 (₹3,200)
+
+### CoolBox: Portable Car Cooler
+- **Type:** Car
+- **Tech:** Thermoelectric
+- **Features:**
+  - Cools to 40°F below
+  - Heats to 140°F
+  - 12V powered
+  - 24L capacity
+- **Daily Use:** Road trips
+- **Price:** $69 (₹5,700)
+
+### SeatCover: Heated Seat Cover
+- **Type:** Car
+- **Tech:** Heating elements
+- **Features:**
+  - Quick heat
+  - Adjustable settings
+  - Safety auto-off
+  - Fits most cars
+- **Daily Use:** Winter driving
+- **Price:** $49 (₹4,100)
+
+### DashCam: Dual Dash Camera
+- **Type:** Car
+- **Tech:** Cameras, WiFi
+- **Features:**
+  - Front + rear
+  - Night vision
+  - Loop recording
+  - App view
+- **Daily Use:** Drivers
+- **Price:** $89 (₹7,400)
+
+### CarPurifier: In-Car Air Purifier
+- **Type:** Car
+- **Tech:** HEPA, ionizer
+- **Features:**
+  - PM2.5 filtering
+  - Compact design
+  - USB powered
+  - Quiet
+- **Daily Use:** City drivers
+- **Price:** $49 (₹4,100)
+
+---
+
+## 31. Outdoor & Adventure
+
+### SolarLantern: Solar Camping Lantern
+- **Type:** Outdoor
+- **Tech:** Solar, LED
+- **Features:**
+  - Solar charging
+  - Multiple modes
+  - Power bank
+  - Waterproof
+- **Daily Use:** Camping
+- **Price:** $29 (₹2,400)
+
+### PortableShower: Solar Camping Shower
+- **Type:** Outdoor
+- **Tech:** Solar heating
+- **Features:**
+  - Heats water naturally
+  - 5 gallon capacity
+  - On/off valve
+  - Carrying bag
+- **Daily Use:** Camping
+- **Price:** $24 (₹2,000)
+
+### CampStove: Biomass Camp Stove
+- **Type:** Outdoor
+- **Tech:** Thermoelectric
+- **Features:**
+  - Burns wood
+  - Generates power
+  - USB charging
+  - Portable
+- **Daily Use:** Camping
+- **Price:** $79 (₹6,500)
+
+### WaterFilter: Portable Water Filter
+- **Type:** Outdoor
+- **Tech:** Ceramic filter
+- **Features:**
+  - Removes 99.9% bacteria
+  - 100,000 gallon life
+  - Fast flow
+  - Lightweight
+- **Daily Use:** Hiking
+- **Price:** $39 (₹3,200)
+
+### GPSWatch: Outdoor GPS Watch
+- **Type:** Outdoor
+- **Tech:** GPS, sensors
+- **Features:**
+  - Navigation
+  - Altitude tracking
+  - Weather
+  - Battery 14 days
+- **Daily Use:** Hikers
+- **Price:** $199 (₹16,500)
+
+### Headlamp: Rechargeable Headlamp
+- **Type:** Outdoor
+- **Tech:** LED, battery
+- **Features:**
+  - 1000 lumens
+  - Red light mode
+  - Motion sensor
+  - USB charging
+- **Daily Use:** Night activities
+- **Price:** $29 (₹2,400)
+
+### Paracord: Survival Paracord
+- **Type:** Outdoor
+- **Tech:** 550 cord
+- **Features:**
+  - 100 feet
+  - Multiple uses
+  - Lightweight
+  - Durable
+- **Daily Use:** Survival
+- **Price:** $9.99 (₹830)
+
+### FirstAidKit: Comprehensive First Aid
+- **Type:** Outdoor
+- **Tech:** Supplies
+- **Features:**
+  - 100+ items
+  - Waterproof case
+  - Guide included
+  - Compact
+- **Daily Use:** Adventure
+- **Price:** $39 (₹3,200)
+
+### MultiTool: 18-in-1 Multi-Tool
+- **Type:** Outdoor
+- **Tech:** Steel tools
+- **Features:**
+  - Pliers, knife, saw
+  - Screwdrivers
+  - Bottle opener
+  - Carry pouch
+- **Daily Use:** EDC
+- **Price:** $29 (₹2,400)
+
+### Hammock: Lightweight Camping Hammock
+- **Type:** Outdoor
+- **Tech:** Nylon
+- **Features:**
+  - 400 lb capacity
+  - Tree straps included
+  - Mosquito net option
+  - Packs to fist size
+- **Daily Use:** Camping
+- **Price:** $39 (₹3,200)
+
+---
+
+## 32. Photography & Videography
+
+### GimbalPhone: Smartphone Gimbal
+- **Type:** Photography
+- **Tech:** 3-axis gimbal
+- **Features:**
+  - Smooth video
+  - Face tracking
+  - Gesture control
+  - Battery 12hr
+- **Daily Use:** Content creators
+- **Price:** $89 (₹7,400)
+
+### RingLightPro: Professional Ring Light
+- **Type:** Photography
+- **Tech:** LED, dimmer
+- **Features:**
+  - 18" diameter
+  - Dimmable
+  - Color temp control
+  - Phone mount
+- **Daily Use:** Vloggers
+- **Price:** $59 (₹4,900)
+
+### MicBoom: USB Microphone Boom Arm
+- **Type:** Audio
+- **Tech:** Adjustable arm
+- **Features:**
+  - USB cable management
+  - Desk clamp
+  - 360° rotation
+  - Heavy base
+- **Daily Use:** Podcasters
+- **Price:** $29 (₹2,400)
+
+### PopFilter: Microphone Pop Filter
+- **Type:** Audio
+- **Tech:** Foam, metal
+- **Features:**
+  - Reduces plosives
+  - Flexible arm
+  - Universal mount
+  - Washable
+- **Daily Use:** Recording
+- **Price:** $9.99 (₹830)
+
+### SDCard: High-Speed SD Card
+- **Type:** Storage
+- **Tech:** UHS-II
+- **Features:**
+  - 256GB
+  - 300MB/s read
+  - 4K video
+  - Waterproof
+- **Daily Use:** Cameras
+- **Price:** $59 (₹4,900)
+
+### TripodPro: Carbon Fiber Tripod
+- **Type:** Photography
+- **Tech:** Carbon fiber
+- **Features:**
+  - 10lb capacity
+  - 5 section legs
+  - Ball head
+  - Carrying case
+- **Daily Use:** Photographers
+- **Price:** $149 (₹12,400)
+
+### Monopod: Bluetooth Selfie Stick
+- **Type:** Photography
+- **Tech:** Bluetooth, extendable
+- **Features:**
+  - 40" reach
+  - Bluetooth shutter
+  - Phone mount
+  - Lightweight
+- **Daily Use:** Selfies
+- **Price:** $19 (₹1,600)
+
+### LensKit: Smartphone Lens Kit
+- **Type:** Photography
+- **Tech:** Glass lenses
+- **Features:**
+  - Wide angle
+  - Macro
+  - Fisheye
+  - Clip-on
+- **Daily Use:** Phone photography
+- **Price:** $24 (₹2,000)
+
+### LightMeter: Digital Light Meter
+- **Type:** Photography
+- **Tech:** Sensor, display
+- **Features:**
+  - Incident metering
+  - Photo/video modes
+  - Memory
+  - Compact
+- **Daily Use:** Photographers
+- **Price:** $79 (₹6,500)
+
+### Reflector: Collapsible Light Reflector
+- **Type:** Photography
+- **Tech:** Fabric, metal
+- **Features:**
+  - 5-in-1 surfaces
+  - 43" diameter
+  - Carrying case
+  - Easy setup
+- **Daily Use:** Portrait photography
+- **Price:** $29 (₹2,400)
+
+---
+
+## 33. Music & Audio
+
+### MidiKeyboard: Portable MIDI Controller
+- **Type:** Music
+- **Tech:** Keys, knobs, USB
+- **Features:**
+  - 25 keys
+  - Pads and knobs
+  - Class compliant
+  - iPad support
+- **Daily Use:** Musicians
+- **Price:** $99 (₹8,200)
+
+### AudioInterface: USB Audio Interface
+- **Type:** Music
+- **Tech:** ADC/DAC
+- **Features:**
+  - 2 inputs
+  - Zero latency
+  - Phantom power
+  - USB powered
+- **Daily Use:** Recording
+- **Price:** $79 (₹6,500)
+
+### StudioMonitors: Active Studio Monitors
+- **Type:** Music
+- **Tech:** Powered speakers
+- **Features:**
+  - 4" woofers
+  - Clear highs
+  - Multiple inputs
+  - Compact
+- **Daily Use:** Home studio
+- **Price:** $149 (₹12,400)
+
+### HeadphoneAmp: Portable Headphone Amp
+- **Type:** Audio
+- **Tech:** Amplifier
+- **Features:**
+  - Powers high-impedance
+  - Bass boost
+  - Rechargeable
+  - Compact
+- **Daily Use:** Audiophiles
+- **Price:** $59 (₹4,900)
+
+### VinylCleaner: Record Cleaning Kit
+- **Type:** Audio
+- **Tech:** Brush, solution
+- **Features:**
+  - Anti-static brush
+  - Cleaning solution
+  - Microfiber cloth
+  - Groove cleaner
+- **Daily Use:** Vinyl lovers
+- **Price:** $24 (₹2,000)
+
+### Turntable: Belt-Drive Turntable
+- **Type:** Audio
+- **Tech:** Belt drive, cartridge
+- **Features:**
+  - 33/45 RPM
+  - Built-in preamp
+  - USB output
+  - Includes cartridge
+- **Daily Use:** Vinyl
+- **Price:** $149 (₹12,400)
+
+### GuitarTuner: Chromatic Tuner
+- **Type:** Music
+- **Tech:** Clip-on sensor
+- **Features:**
+  - Chromatic tuning
+  - Backlight display
+  - Built-in metronome
+  - Rechargeable
+- **Daily Use:** Musicians
+- **Price:** $19 (₹1,600)
+
+### Metronome: Digital Metronome
+- **Type:** Music
+- **Tech:** Quartz, speaker
+- **Features:**
+  - BPM 40-208
+  - Visual beat
+  - Tap tempo
+  - Loud speaker
+- **Daily Use:** Practice
+- **Price:** $14 (₹1,200)
+
+### Capo: Quick-Change Capo
+- **Type:** Music
+- **Tech:** Spring mechanism
+- **Features:**
+  - One-hand operation
+  - Fits most necks
+  - Non-slip
+  - Durable
+- **Daily Use:** Guitarists
+- **Price:** $9.99 (₹830)
+
+### StringWinder: Guitar String Winder
+- **Type:** Music
+- **Tech:** Crank, cutter
+- **Features:**
+  - Speeds up tuning
+  - Built-in cutter
+  - Fits acoustic/electric
+  - Ergonomic
+- **Daily Use:** Guitarists
+- **Price:** $7.99 (₹660)
+
+---
+
+## 34. Tools & DIY
+
+### SolderingStation: Digital Soldering Station
+- **Type:** Tools
+- **Tech:** PID temperature
+- **Features:**
+  - Adjustable temp
+  - Fast heat up
+  - LED display
+  - Soldering iron included
+- **Daily Use:** Electronics
+- **Price:** $59 (₹4,900)
+
+### Multimeter: Digital Multimeter
+- **Type:** Tools
+- **Tech:** Auto-ranging
+- **Features:**
+  - AC/DC voltage
+  - Current, resistance
+  - Capacitance
+  - Auto power off
+- **Daily Use:** Electronics
+- **Price:** $29 (₹2,400)
+
+### Oscilloscope: Pocket Oscilloscope
+- **Type:** Tools
+- **Tech:** Digital display
+- **Features:**
+  - 2 channel
+  - 1MHz bandwidth
+  - USB charging
+  - Waveform memory
+- **Daily Use:** Makers
+- **Price:** $79 (₹6,500)
+
+### HeatGun: Cordless Heat Gun
+- **Type:** Tools
+- **Tech:** Battery powered
+- **Features:**
+  - 2 heat settings
+  - Cordless freedom
+  - LED light
+  - Battery 30 min
+- **Daily Use:** DIY
+- **Price:** $49 (₹4,100)
+
+### HotGlueGun: Precision Glue Gun
+- **Type:** Tools
+- **Tech:** PTC heating
+- **Features:**
+  - Dual temp
+  - Precision tip
+  - Stand included
+  - Quick heat
+- **Daily Use:** Crafts
+- **Price:** $19 (₹1,600)
+
+### Dremel: Rotary Tool Kit
+- **Type:** Tools
+- **Tech:** High-speed motor
+- **Features:**
+  - Variable speed
+  - 100+ accessories
+  - Flex shaft
+  - Case included
+- **Daily Use:** DIY
+- **Price:** $59 (₹4,900)
+
+### TableSaw: Compact Table Saw
+- **Type:** Tools
+- **Tech:** Motor, fence
+- **Features:**
+  - 10" blade
+  - Folding stand
+  - Dust port
+  - Laser guide
+- **Daily Use:** Woodworking
+- **Price:** $199 (₹16,500)
+
+### Jigsaw: Cordless Jigsaw
+- **Type:** Tools
+- **Tech:** Battery powered
+- **Features:**
+  - Orbital action
+  - LED light
+  - Variable speed
+  - Blade included
+- **Daily Use:** DIY
+- **Price:** $79 (₹6,500)
+
+### Sander: Random Orbit Sander
+- **Type:** Tools
+- **Tech:** Dust collection
+- **Features:**
+  - 5" pad
+  - Variable speed
+  - Dust bag
+  - Hook and loop
+- **Daily Use:** Woodworking
+- **Price:** $49 (₹4,100)
+
+### Drill: Cordless Drill/Driver
+- **Type:** Tools
+- **Tech:** Brushless motor
+- **Features:**
+  - 20V battery
+  - 2 speeds
+  - LED work light
+  - Clutch settings
+- **Daily Use:** DIY
+- **Price:** $89 (₹7,400)
+
+---
+
+## 35. Office & Productivity
+
+### StandingDesk: Electric Standing Desk
+- **Type:** Office
+- **Tech:** Motor, memory
+- **Features:**
+  - Height adjustable
+  - Memory presets
+  - Cable management
+  - App control
+- **Daily Use:** Home office
+- **Price:** $399 (₹33,200)
+
+### MonitorArm: Gas Spring Monitor Arm
+- **Type:** Office
+- **Tech:** Gas spring
+- **Features:**
+  - Holds up to 32"
+  - VESA compatible
+  - Cable management
+  - Easy adjust
+- **Daily Use:** Desks
+- **Price:** $79 (₹6,500)
+
+### ErgonomicMouse: Vertical Ergonomic Mouse
+- **Type:** Office
+- **Tech:** Optical, vertical
+- **Features:**
+  - Reduces strain
+  - Adjustable DPI
+  - Thumb rest
+  - Wireless
+- **Daily Use:** Office workers
+- **Price:** $39 (₹3,200)
+
+### Footrest: Adjustable Footrest
+- **Type:** Office
+- **Tech:** Rocker design
+- **Features:**
+  - Improves posture
+  - Massaging texture
+  - Non-slip
+  - 3 angle settings
+- **Daily Use:** Desk workers
+- **Price:** $29 (₹2,400)
+
+### WristRest: Memory Foam Wrist Rest
+- **Type:** Office
+- **Tech:** Memory foam
+- **Features:**
+  - Keyboard + mouse set
+  - Ergonomic support
+  - Washable cover
+  - Non-slip base
+- **Daily Use:** Typists
+- **Price:** $24 (₹2,000)
+
+### DeskOrganizer: Smart Desk Organizer
+- **Type:** Office
+- **Tech:** compartments, USB hub
+- **Features:**
+  - Pen holder
+  - Phone stand
+  - USB ports
+  - Wireless charger
+- **Daily Use:** Desks
+- **Price:** $39 (₹3,200)
+
+### Whiteboard: Portable Whiteboard
+- **Type:** Office
+- **Tech:** Magnetic, dry-erase
+- **Features:**
+  - Double-sided
+  - Markers included
+  - Mount or stand
+  - 4' x 3'
+- **Daily Use:** Meetings
+- **Price:** $49 (₹4,100)
+
+### DocumentScanner: Portable Document Scanner
+- **Type:** Office
+- **Tech:** CIS sensor
+- **Features:**
+  - 300 DPI
+  - Auto-feed 20 pages
+  - PDF output
+  - USB powered
+- **Daily Use:** Office
+- **Price:** $99 (₹8,200)
+
+### LabelMaker: Bluetooth Label Maker
+- **Type:** Office
+- **Tech:** Thermal, Bluetooth
+- **Features:**
+  - Mobile app
+  - 100+ templates
+  - Cut tape
+  - Rechargeable
+- **Daily Use:** Organization
+- **Price:** $29 (₹2,400)
+
+### PaperShredder: Cross-Cut Shredder
+- **Type:** Office
+- **Tech:** Strip cut
+- **Features:**
+  - 12 sheet capacity
+  - CD credit card
+  - Pull-out bin
+  - Safety
+- **Daily Use:** Security
+- **Price:** $49 (₹4,100)
+
+---
+
+## Summary Statistics (Updated)
+
+| Category | Count |
+|----------|-------|
+| Health & Wellness | 45 |
+| Home & Kitchen | 35 |
+| Pet Tech | 20 |
+| Audio & Entertainment | 20 |
+| Wearables | 25 |
+| Smart Home | 20 |
+| Travel & Outdoor | 30 |
+| Beauty & Grooming | 15 |
+| Productivity | 25 |
+| Gaming | 15 |
+| Automotive | 20 |
+| Photography | 15 |
+| Music | 15 |
+| Tools | 20 |
+| Office | 20 |
+| **Total** | **340+** |
+
+**Last Updated:** 2026-03-11 01:30 AM IST
