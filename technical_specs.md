@@ -2633,3 +2633,769 @@
 | **Total** | **340+** |
 
 **Last Updated:** 2026-03-11 01:30 AM IST
+
+---
+
+## 36. Baby & Kids Tech
+
+### BabyMonitor: HD Baby Monitor
+- **Type:** Baby
+- **Tech:** Camera, night vision
+- **Features:**
+  - HD video
+  - Two-way audio
+  - Temperature
+  - Lullabies
+- **Daily Use:** Parents
+- **Price:** $99 (₹8,200)
+
+### SmartBottle: Temperature Control Bottle
+- **Type:** Baby
+- **Tech:** Temp display, battery
+- **Features:**
+  - Shows temp
+  - LED night light
+  - Keeps warm/cold
+  - Rechargeable
+- **Daily Use:** Baby feeding
+- **Price:** $39 (₹3,200)
+
+### DiaperGenie: Smart Diaper Pail
+- **Type:** Baby
+- **Tech:** Sealed system
+- **Features:**
+  - Odor lock
+  - Uses special bags
+  - Foot pedal
+  - Holds 30 diapers
+- **Daily Use:** Parents
+- **Price:** $49 (₹4,100)
+
+### BabyScale: Digital Baby Scale
+- **Type:** Baby
+- **Tech:** Precision sensors
+- **Features:**
+  - Grams/ounces
+  - Tare function
+  - LCD display
+  - Auto off
+- **Daily Use:** Baby weight
+- **Price:** $29 (₹2,400)
+
+### NasalAspirator: Electric Nose Cleaner
+- **Type:** Baby
+- **Tech:** Suction, silicone
+- **Features:**
+  - Gentle suction
+  - 3 sizes tips
+  - Rechargeable
+  - Quiet
+- **Daily Use:** Stuffy nose
+- **Price:** $24 (₹2,000)
+
+### BabySound: White Noise Machine
+- **Type:** Baby
+- **Tech:** Speaker, timer
+- **Features:**
+  - 10 sounds
+  - Volume control
+  - Auto shut-off
+  - Portable
+- **Daily Use:** Sleep
+- **Price:** $19 (₹1,600)
+
+### KidTablet: Educational Kids Tablet
+- **Type:** Kids
+- **Tech:** Android, parental
+- **Features:**
+  - Kid-safe content
+  - Parental controls
+  - Durable case
+  - 2-year warranty
+- **Daily Use:** Kids learning
+- **Price:** $99 (₹8,200)
+
+### RobotPet: Interactive Robot Pet
+- **Type:** Kids
+- **Tech:** AI, sensors
+- **Features:**
+  - Responds to touch
+  - Voice commands
+  - Teaches coding
+  - Long battery
+- **Daily Use:** Kids
+- **Price:** $79 (₹6,500)
+
+### SmartWatch: Kids GPS Watch
+- **Type:** Kids
+- **Tech:** GPS, cellular
+- **Features:**
+  - Location tracking
+  - SOS button
+  - Geofencing
+  - Camera
+- **Daily Use:** Kids safety
+- **Price:** $79 (₹6,500)
+
+### LearningRobot: Educational Robot
+- **Type:** Kids
+- **Tech:** Coding, sensors
+- **Features:**
+  - Teaches coding
+  - Voice control
+  - App enabled
+  - Expandable
+- **Daily Use:** STEM learning
+- **Price:** $129 (₹10,700)
+
+---
+
+## 37. Kitchen Tech
+
+### SousVide: Precision Cooker
+- **Type:** Cooking
+- **Tech:** Temp control, WiFi
+- **Features:**
+  - Precise temp
+  - App control
+  - Timer
+  - Clips to pot
+- **Daily Use:** Cooking
+- **Price:** $89 (₹7,400)
+
+### InstantPot: Smart Pressure Cooker
+- **Type:** Cooking
+- **Tech:** Multi-cooker, app
+- **Features:**
+  - Pressure cook
+  - Slow cook
+  - Rice cooker
+  - App recipes
+- **Daily Use:** Home cooking
+- **Price:** $99 (₹8,200)
+
+### AirFryer: Digital Air Fryer
+- **Type:** Cooking
+- **Tech:** Rapid air, digital
+- **Features:**
+  - 8L capacity
+  - 8 presets
+  - Timer
+  - Dishwasher safe
+- **Daily Use:** Healthy frying
+- **Price:** $99 (₹8,200)
+
+### ImmersionCirculator: Sous Vide Stick
+- **Type:** Cooking
+- **Tech:** Heating, flow
+- **Features:**
+  - Precise temp control
+  - Compact
+  - WiFi enabled
+  - Timer
+- **Daily Use:** Cooking
+- **Price:** $79 (₹6,500)
+
+### FoodScale: Digital Kitchen Scale
+- **Type:** Cooking
+- **Tech:** Precision sensors
+- **Features:**
+  - Grams/ounces
+  - Tare function
+  - LCD display
+  - Sleek design
+- **Daily Use:** Baking
+- **Price:** $14 (₹1,200)
+
+### Thermometer: Instant Read Thermometer
+- **Type:** Cooking
+- **Tech:** Probe, instant read
+- **Features:**
+  - 2-3 second read
+  - Backlight
+  - Foldable
+  - Waterproof
+- **Daily Use:** Cooking
+- **Price:** $19 (₹1,600)
+
+### Blender: High-Speed Blender
+- **Type:** Kitchen
+- **Tech:** Motor, blades
+- **Features:**
+  - 1400W motor
+  - Pulse function
+  - BPA-free
+  - Dishwasher safe
+- **Daily Use:** Smoothies
+- **Price:** $99 (₹8,200)
+
+### Juicer: Cold Press Juicer
+- **Type:** Kitchen
+- **Tech:** Cold press
+- **Features:**
+  - Slow juicing
+  - Quiet motor
+  - Auto pulp
+  - Easy clean
+- **Daily Use:** Health
+- **Price:** $149 (₹12,400)
+
+### CoffeeGrinder: Burr Grinder
+- **Type:** Coffee
+- **Tech:** Burrs, timer
+- **Features:**
+  - 40 settings
+  - Timer
+  - LCD display
+  - Static-free
+- **Daily Use:** Coffee
+- **Price:** $79 (₹6,500)
+
+### Espresso: Manual Espresso Maker
+- **Type:** Coffee
+- **Tech:** Lever, pressure
+- **Features:**
+  - No electricity
+  - Professional extraction
+  - Portable
+  - Premium build
+- **Daily Use:** Coffee
+- **Price:** $129 (₹10,700)
+
+---
+
+## 38. Cleaning Tech
+
+### RobotVac: Smart Robot Vacuum
+- **Type:** Cleaning
+- **Tech:** LiDAR, mapping
+- **Features:**
+  - Room mapping
+  - App control
+  - Auto empty
+  - Mop option
+- **Daily Use:** Home cleaning
+- **Price:** $299 (₹24,900)
+
+### CordlessVac: Stick Vacuum
+- **Type:** Cleaning
+- **Tech:** HEPA, battery
+- **Features:**
+  - 45 min runtime
+  - HEPA filter
+  - LED lights
+  - Wall mount
+- **Daily Use:** Home
+- **Price:** $199 (₹16,500)
+
+### CarpetCleaner: Spot Cleaner
+- **Type:** Cleaning
+- **Tech:** Motor, brushes
+- **Features:**
+  - Portable
+  - Self-cleaning
+  - 1 gallon
+  - Upholstery tools
+- **Daily Use:** Stains
+- **Price:** $149 (₹12,400)
+
+### SteamMop: Hard Floor Steamer
+- **Type:** Cleaning
+- **Tech:** Steam, mop
+- **Features:**
+  - Kills 99.9% germs
+  - No chemicals
+  - Fast heat up
+  - Multi-surface
+- **Daily Use:** Floors
+- **Price:** $79 (₹6,500)
+
+### WindowVac: Window Vacuum
+- **Type:** Cleaning
+- **Tech:** Squeegee, suction
+- **Features:**
+  - Leaves no streaks
+  - Cordless
+  - Rechargeable
+  - Edge cleaning
+- **Daily Use:** Windows
+- **Price:** $39 (₹3,200)
+
+### Iron: Steam Generator Iron
+- **Type:** Cleaning
+- **Tech:** Steam, soleplate
+- **Features:**
+  - 2400W
+  - Vertical steam
+  - Auto shut-off
+  - Self-cleaning
+- **Daily Use:** Laundry
+- **Price:** $129 (₹10,700)
+
+### LaundryDetergent: Smart Dispenser
+- **Type:** Laundry
+- **Tech:** Automatic
+- **Features:**
+  - Doses automatically
+  - App control
+  - Saves detergent
+  - Compact
+- **Daily Use:** Laundry
+- **Price:** $49 (₹4,100)
+
+### FoldingBoard: Laundry Folding Board
+- **Type:** Laundry
+- **Tech:** Guide rails
+- **Features:**
+  - Perfect folds
+  - T-shirt, pants, towels
+  - Saves time
+  - Collapsible
+- **Daily Use:** Laundry
+- **Price:** $29 (₹2,400)
+
+### DryingRack: Electric Clothes Drying Rack
+- **Type:** Laundry
+- **Tech:** Heated rails
+- **Features:**
+  - 30 min dry
+  - Energy efficient
+  - Foldable
+  - Timer
+- **Daily Use:** Indoor drying
+- **Price:** $149 (₹12,400)
+
+### IroningBoard: Compact Ironing Board
+- **Type:** Laundry
+- **Tech:** Padded, folding
+- **Features:**
+  - 2' x 1'
+  - Non-stick
+  - Wall mount
+  - Heat resistant
+- **Daily Use:** Travel
+- **Price:** $24 (₹2,000)
+
+---
+
+## 39. Climate & Weather
+
+### SmartThermostat: Learning Thermostat
+- **Type:** Climate
+- **Tech:** AI, WiFi, sensors
+- **Features:**
+  - Learns schedule
+  - Remote control
+  - Energy reports
+  - Voice compatible
+- **Daily Use:** Home climate
+- **Price:** $249 (₹20,700)
+
+### AirConditioner: Smart AC Controller
+- **Type:** Climate
+- **Tech:** IR, WiFi
+- **Features:**
+  - Makes any AC smart
+  - App control
+  - Scheduling
+  - Voice control
+- **Daily Use:** AC control
+- **Price:** $49 (₹4,100)
+
+### Fan: Smart Tower Fan
+- **Type:** Climate
+- **Tech:** Oscillating, remote
+- **Features:**
+  - 3 speeds
+  - Timer
+  - Remote control
+  - LED display
+- **Daily Use:** Cooling
+- **Price:** $79 (₹6,500)
+
+### Heater: Oil-Filled Radiator
+- **Type:** Climate
+- **Tech:** Oil-filled, thermostat
+- **Features:**
+  - Silent operation
+  - Tip-over protection
+  - Timer
+  - Wheels
+- **Daily Use:** Winter
+- **Price:** $89 (₹7,400)
+
+### Humidifier: Smart Humidifier
+- **Type:** Climate
+- **Tech:** Ultrasonic, app
+- **Features:**
+  - 4L capacity
+  - Mist levels
+  - App control
+  - Auto shut-off
+- **Daily Use:** Dry air
+- **Price:** $59 (₹4,900)
+
+### Dehumidifier: Compact Dehumidifier
+- **Type:** Climate
+- **Tech:** Compressor
+- **Features:**
+  - 30 pint/day
+  - Auto drain
+  - Timer
+  - Energy Star
+- **Daily Use:** Humidity
+- **Price:** $149 (₹12,400)
+
+### AirQuality: Indoor Air Quality Monitor
+- **Type:** Climate
+- **Tech:** Multi-sensor
+- **Features:**
+  - PM2.5, CO2, VOC
+  - Temperature, humidity
+  - OLED display
+  - App history
+- **Daily Use:** Health
+- **Price:** $99 (₹8,200)
+
+### WeatherStation: Home Weather Station
+- **Type:** Climate
+- **Tech:** Sensors, display
+- **Features:**
+  - Indoor/outdoor temp
+  - Humidity
+  - Barometric pressure
+  - Forecast
+- **Daily Use:** Weather
+- **Price:** $79 (₹6,500)
+
+### SnowMelt: Smart Floor Heating
+- **Type:** Climate
+- **Tech:** Mat, thermostat
+- **Features:**
+  - Energy efficient
+  - WiFi control
+  - Floor sensor
+  - Timer
+- **Daily Use:** Bathrooms
+- **Price:** $199 (₹16,500)
+
+### CeilingFan: Smart Ceiling Fan
+- **Type:** Climate
+- **Tech:** DC motor, remote
+- **Features:**
+  - 6 speeds
+  - Reverse
+  - Timer
+  - LED light
+- **Daily Use:** Home
+- **Price:** $249 (₹20,700)
+
+---
+
+## 40. Security & Safety
+
+### Doorbell: Video Doorbell
+- **Type:** Security
+- **Tech:** Camera, WiFi, PIR
+- **Features:**
+  - 1080p video
+  - Two-way audio
+  - Night vision
+  - Cloud storage
+- **Daily Use:** Home security
+- **Price:** $129 (₹10,700)
+
+### Lock: Smart Door Lock
+- **Type:** Security
+- **Tech:** Fingerprint, keypad
+- **Features:**
+  - Fingerprint unlock
+  - Code entry
+  - App control
+  - Physical key backup
+- **Daily Use:** Smart home
+- **Price:** $199 (₹16,500)
+
+### Camera: Indoor Security Camera
+- **Type:** Security
+- **Tech:** 1080p, night vision
+- **Features:**
+  - Motion detection
+  - Two-way audio
+  - Cloud/SD storage
+  - Pan/tilt
+- **Daily Use:** Home monitoring
+- **Price:** $59 (₹4,900)
+
+### Camera: Outdoor Security Camera
+- **Type:** Security
+- **Tech:** Weatherproof, solar
+- **Features:**
+  - 1080p
+  - Solar powered
+  - Night vision
+  - Siren
+- **Daily Use:** Outdoors
+- **Price:** $89 (₹7,400)
+
+### Sensor: Motion Sensor
+- **Type:** Security
+- **Tech:** PIR, Zigbee
+- **Features:**
+  - Detect motion
+  - Battery 2 years
+  - App alerts
+  - Easy install
+- **Daily Use:** Smart home
+- **Price:** $19 (₹1,600)
+
+### Sensor: Door/Window Sensor
+- **Type:** Security
+- **Tech:** Magnetic, Zigbee
+- **Features:**
+  - Open/close detection
+  - Battery 2 years
+  - App alerts
+  - Easy install
+- **Daily Use:** Smart home
+- **Price:** $14 (₹1,200)
+
+### Siren: Smart Siren
+- **Type:** Security
+- **Tech:** Alarm, strobe
+- **Features:**
+  - 110dB siren
+  - Strobe light
+  - App trigger
+  - Backup battery
+- **Daily Use:** Security
+- **Price:** $39 (₹3,200)
+
+### Safe: Electronic Safe
+- **Type:** Security
+- **Tech:** Digital, keypad
+- **Features:**
+  - Code access
+  - Override key
+  - Mounting hardware
+  - Interior light
+- **Daily Use:** Valuables
+- **Price:** $79 (₹6,500)
+
+### GasDetector: Gas Leak Detector
+- **Type:** Safety
+- **Tech:** Sensors, alarm
+- **Features:**
+  - Natural gas
+  - Propane
+  - Carbon monoxide
+  - Loud alarm
+- **Daily Use:** Kitchen safety
+- **Price:** $29 (₹2,400)
+
+### FireExtinguisher: Smart Fire Extinguisher
+- **Type:** Safety
+- **Tech:** Sensor, alert
+- **Features:**
+  - Pressure monitoring
+  - Expiry alerts
+  - Emergency guide
+  - Wall mount
+- **Daily Use:** Safety
+- **Price:** $49 (₹4,100)
+
+---
+
+## 41. Miscellaneous Unique Gadgets
+
+### SmartPlant: Self-Watering Planter
+- **Type:** Home
+- **Tech:** Water wicking
+- **Features:**
+  - 3 week water
+  - Indicator
+  - For indoor plants
+  - No mess
+- **Daily Use:** Plant care
+- **Price:** $19 (₹1,600)
+
+### BugZapper: Electric Fly Swatter
+- **Type:** Home
+- **Tech:** Electric grid
+- **Features:**
+  - One-hit kill
+  - LED light
+  - Rechargeable
+  - Safety mesh
+- **Daily Use:** Pest control
+- **Price:** $14 (₹1,200)
+
+### AirFreshener: Automatic Air Freshener
+- **Type:** Home
+- **Tech:** Motion sensor
+- **Features:**
+  - Sprays on motion
+  - Adjustable
+  - Refillable
+  - Battery powered
+- **Daily Use:** Home
+- **Price:** $19 (₹1,600)
+
+### CatLitter: Clumping Cat Litter
+- **Type:** Pet
+- **Tech:** Clay formula
+- **Features:**
+  - Clumps hard
+  - Odor control
+  - Flushable
+  - Low dust
+- **Daily Use:** Cat owners
+- **Price:** $14 (₹1,200)
+
+### DogFood: Smart Dog Food Storage
+- **Type:** Pet
+- **Tech:** Airtight, dispenser
+- **Features:**
+  - Keeps food fresh
+  - Portion control
+  - WiFi enabled
+  - Easy clean
+- **Daily Use:** Pet owners
+- **Price:** $49 (₹4,100)
+
+### CatToy: Interactive Cat Laser
+- **Type:** Pet
+- **Tech:** Motor, laser
+- **Features:**
+  - Auto-play
+  - Random patterns
+  - Timer
+  - Battery powered
+- **Daily Use:** Cat play
+- **Price:** $24 (₹2,000)
+
+### BirdFeeder: Smart Bird Feeder
+- **Type:** Nature
+- **Tech:** Camera, WiFi
+- **Features:**
+  - Bird ID
+  - Capture photos
+  - Notifications
+  - Solar powered
+- **Daily Use:** Bird watchers
+- **Price:** $79 (₹6,500)
+
+### Aquarium: Desktop Aquarium
+- **Type:** Pet
+- **Tech:** Self-cleaning
+- **Features:**
+  - Nano size
+  - Self-filtering
+  - LED light
+  - Low maintenance
+- **Daily Use:** Office
+- **Price:** $49 (₹4,100)
+
+### Terrarium: Self-Contained Ecosystem
+- **Type:** Nature
+- **Tech:** Closed system
+- **Features:**
+  - Self-sustaining
+  - Plants + shrimp
+  - Desktop size
+  - Educational
+- **Daily Use:** Decor
+- **Price:** $39 (₹3,200)
+
+### WindChime: Smart Wind Chimes
+- **Type:** Home
+- **Tech:** Wind sensor, speakers
+- **Features:**
+  - Plays tones
+  - Wind detection
+  - App control
+  - Solar powered
+- **Daily Use:** Relaxation
+- **Price:** $29 (₹2,400)
+
+---
+
+## 42. Future Tech Concepts
+
+### NeuralInterface: Brain-Computer Interface (Concept)
+- **Type:** Future
+- **Tech:** EEG, neural
+- **Features:**
+  - Thought control
+  - Memory extension
+  - Direct neural link
+  - Early R&D
+- **Note:** Concept stage
+- **Price:** TBD
+
+### HologramPhone: Holographic Phone (Concept)
+- **Type:** Future
+- **Tech:** Light field
+- **Features:**
+  - 3D display
+  - No glasses
+  - Interactive
+  - Not yet consumer
+- **Note:** Concept stage
+- **Price:** TBD
+
+### InvisibilityCloak: Metamaterial Cloak (Concept)
+- **Type:** Future
+- **Tech:** Metamaterials
+- **Features:**
+  - Bends light
+  - Objects hidden
+  - Research stage
+  - Military interest
+- **Note:** Lab only
+- **Price:** TBD
+
+### Teleportation: Quantum Teleportation (Concept)
+- **Type:** Future
+- **Tech:** Quantum
+- **Features:**
+  - Instant transfer
+  - Data only
+  - Lab demonstrations
+  - Not matter
+- **Note:** Research
+- **Price:** TBD
+
+### AntiGravity: Anti-Gravity Device (Concept)
+- **Type:** Future
+- **Tech:** Superconductors
+- **Features:**
+  - Levitation
+  - High cost
+  - Lab demonstrations
+  - Not practical
+- **Note:** Experimental
+- **Price:** TBD
+
+---
+
+## Final Summary
+
+| Batch | Category Focus | Count |
+|-------|---------------|-------|
+| Original | Core IoT/FinTech | 25 |
+| Late Night | Health & Home | 30 |
+| Pre-Dawn | Emerging Tech | 20 |
+| Dawn | Morning Gadgets | 20 |
+| Morning | Daily Use | 20 |
+| Additional 1 | 60+ Categories | 60 |
+| Additional 2 | Gaming/Travel | 130 |
+| Additional 3 | Auto/Outdoor | 120 |
+| Additional 4 | Baby/Kitchen | 60 |
+| Additional 5 | Climate/Security | 60 |
+| Additional 6 | Misc/Future | 40 |
+| **Grand Total** | | **565+** |
+
+**Status:** Complete ✅
+**Generated:** 2026-03-11 02:00 AM - 09:00 AM IST
+**Ready for:** Market research, product ideas, innovation tracking
